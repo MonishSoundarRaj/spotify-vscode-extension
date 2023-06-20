@@ -1,0 +1,1 @@
+# spotify-vscode-extension
